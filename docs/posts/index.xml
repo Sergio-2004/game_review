@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Tarea 2</title>
-    <link>https://example.org/posts/</link>
+    <link>https://sergio-2004.github.io/game_review/posts/</link>
     <description>Recent content in Posts on Tarea 2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Oct 2023 17:55:10 +0200</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 17:55:10 +0200</lastBuildDate><atom:link href="https://sergio-2004.github.io/game_review/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
