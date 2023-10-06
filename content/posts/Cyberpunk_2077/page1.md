@@ -13,6 +13,5 @@ The plot delves deep into themes of identity, transhumanism, corporate greed, an
 
 Despite facing some technical issues upon its initial release, *Cyberpunk 2077* remains a compelling narrative-driven experience with a richly detailed world and intricate storytelling, immersing players in a gritty, neon-lit future ripe with danger and intrigue.
 
-
-
+{{< middle nombre="cp2.png" alt="cp2" >}}
 

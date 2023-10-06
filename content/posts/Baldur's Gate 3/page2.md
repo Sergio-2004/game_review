@@ -16,3 +16,5 @@ The extensive dialogue system allows players to interact with non-player charact
 Exploration is key, and the game boasts an expansive and meticulously crafted world to discover. The attention to detail in both environments and character design is remarkable, adding to the overall immersion.
 
 While the game is in early access, it already showcases a promising foundation for what is likely to be an epic role-playing experience. Despite some bugs and incomplete features, *Baldur's Gate 3* promises an exciting journey through a beautifully realized fantasy world, making it a must-play for RPG enthusiasts.
+
+{{< middle nombre="bg3.png" alt="bg3" >}}

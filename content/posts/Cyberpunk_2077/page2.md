@@ -14,3 +14,5 @@ Combat in *Cyberpunk 2077* is dynamic and engaging, offering a mix of gunplay, m
 The open-world design allows for exploration and interaction with a vast urban landscape. Players can engage in side missions, activities, and immerse themselves in the intricate world of Night City. The visual and auditory aspects of the game are stunning, enhancing the cyberpunk atmosphere with a detailed and futuristic aesthetic.
 
 However, upon its release, the game faced technical issues and performance limitations, particularly on older console systems. Despite this, the core gameplay experience remains captivating, offering an expansive, choice-rich adventure in a futuristic world that's as beautiful as it is brutal.
+
+{{< middle nombre="cp3.png" alt="cp3" >}}

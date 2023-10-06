@@ -14,4 +14,4 @@ The rogue-like nature of the game ensures that no two runs are the same. Permade
 
 The progression system is well-designed, allowing players to unlock permanent upgrades, new weapons, and delve deeper into the rich narrative. Overall, *Hades* seamlessly weaves together compelling gameplay, stunning visuals, and an engaging story, making it a must-play for fans of the rogue-like genre.
 
-{{< middle nombre="hades1.png" alt="hades1" >}}
+{{< middle nombre="hades3.png" alt="hades3" >}}

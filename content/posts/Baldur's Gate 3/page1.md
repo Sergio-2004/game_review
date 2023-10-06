@@ -12,3 +12,5 @@ Players find themselves entangled in a struggle against both the malevolent Illi
 The game is known for its branching storylines, driven by player choices and character interactions. As the infected protagonist, players must grapple with ethical dilemmas and moral choices that can shape the course of the story, leading to multiple possible outcomes.
 
 The plot is layered with intricate lore, captivating characters, and the quintessential elements of high fantasy, including magic, mythical creatures, and epic battles. *Baldur's Gate 3* is a thrilling journey through a meticulously crafted world, offering a complex narrative that keeps players engaged and eager to uncover the mysteries that lie within this extraordinary realm.
+
+{{< middle nombre="bg2.png" alt="bg2" >}}
