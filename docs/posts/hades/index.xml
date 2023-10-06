@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hades on Tarea 2</title>
+    <link>https://example.org/posts/hades/</link>
+    <description>Recent content in Hades on Tarea 2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Oct 2023 17:55:42 +0200</lastBuildDate><atom:link href="https://example.org/posts/hades/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gameplay</title>
+      <link>https://example.org/posts/hades/page2/</link>
+      <pubDate>Wed, 04 Oct 2023 17:55:53 +0200</pubDate>
+      
+      <guid>https://example.org/posts/hades/page2/</guid>
+      <description>Hades, developed by Supergiant Games, is a tour de force in the realm of action rogue-like gameplay. The player takes on the role of Zagreus, the son of Hades, navigating through the intricacies of the Underworld in a bid to escape to the surface. The gameplay is fast-paced and highly engaging, featuring a mix of isometric combat and dungeon-crawling elements.
+Combat is the highlight, featuring an array of weapons, each with distinct playstyles and upgrade paths.</description>
+      <content>&lt;p&gt;&lt;em&gt;Hades&lt;/em&gt;, developed by &lt;strong&gt;Supergiant Games&lt;/strong&gt;, is a tour de force in the realm of action rogue-like gameplay. The player takes on the role of Zagreus, the son of Hades, navigating through the intricacies of the Underworld in a bid to escape to the surface. The gameplay is fast-paced and highly engaging, featuring a mix of isometric combat and dungeon-crawling elements.&lt;/p&gt;
+&lt;p&gt;Combat is the highlight, featuring an array of weapons, each with distinct playstyles and upgrade paths. The game keeps players on their toes, as they battle a multitude of enemies, each requiring unique strategies to defeat. The fluidity of combat, combined with the beautifully animated attacks and dodges, makes for an exhilarating experience.&lt;/p&gt;
+&lt;p&gt;A key aspect is the boon system, where Zagreus receives aid from Olympian gods, enhancing abilities and altering gameplay. The interactions with the gods present a strategic layer, as players choose the boon that aligns with their playstyle or current needs.&lt;/p&gt;
+&lt;p&gt;The rogue-like nature of the game ensures that no two runs are the same. Permadeath is a constant companion, adding an element of challenge and encouraging players to experiment and adapt. The game rewards persistence and skillful gameplay, providing a sense of accomplishment with each successful escape attempt.&lt;/p&gt;
+&lt;p&gt;The progression system is well-designed, allowing players to unlock permanent upgrades, new weapons, and delve deeper into the rich narrative. Overall, &lt;em&gt;Hades&lt;/em&gt; seamlessly weaves together compelling gameplay, stunning visuals, and an engaging story, making it a must-play for fans of the rogue-like genre.&lt;/p&gt;
+&lt;div style=&#34; width: 800px; margin-left: 150px;&#34;&gt;
+  &lt;img src=&#34;https://example.org//images/hades1.png&#34;
+       alt=hades1
+       width=&#34;500&#34;/&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Plot</title>
+      <link>https://example.org/posts/hades/page1/</link>
+      <pubDate>Wed, 04 Oct 2023 17:55:50 +0200</pubDate>
+      
+      <guid>https://example.org/posts/hades/page1/</guid>
+      <description>Hades, an action-packed rogue-like video game developed by Supergiant Games, plunges players into the depths of Greek mythology. The story centers on Zagreus, the son of Hades, as he embarks on a relentless quest to escape the Underworld and reach the surface to reunite with his mother, Persephone.
+Set in the beautifully designed realm of the Underworld, the game offers an engaging narrative that evolves with each escape attempt. As Zagreus battles his way through hordes of mythical creatures and challenges, players uncover hidden secrets, forge alliances with gods and spirits, and confront their own family&amp;rsquo;s complex dynamics.</description>
+      <content>&lt;p&gt;&lt;em&gt;Hades&lt;/em&gt;, an action-packed rogue-like video game developed by &lt;strong&gt;Supergiant Games&lt;/strong&gt;, plunges players into the depths of Greek mythology. The story centers on Zagreus, the son of Hades, as he embarks on a relentless quest to escape the Underworld and reach the surface to reunite with his mother, Persephone.&lt;/p&gt;
+&lt;p&gt;Set in the beautifully designed realm of the Underworld, the game offers an engaging narrative that evolves with each escape attempt. As Zagreus battles his way through hordes of mythical creatures and challenges, players uncover hidden secrets, forge alliances with gods and spirits, and confront their own family&amp;rsquo;s complex dynamics.&lt;/p&gt;
+&lt;p&gt;The plot is intricately woven, revealing the fractured relationships among the Olympian gods and shedding light on Zagreus&amp;rsquo; determination to discover the truth about his lineage. The interactions with various characters, including the witty conversations with Olympian deities, add depth to the storytelling, making it a delightful experience for players.&lt;/p&gt;
+&lt;p&gt;What sets &lt;em&gt;Hades&lt;/em&gt; apart is its unique approach to storytelling through repeated gameplay attempts, creating a sense of progress and character development with every escape, accompanied by a diverse array of weapons, abilities, and upgrades. The plot&amp;rsquo;s evolution with each run is masterfully crafted, enticing players to persistently challenge the Underworld and unravel the compelling narrative at its core.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
