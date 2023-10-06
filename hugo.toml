@@ -1,0 +1,31 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Tarea 2'
+theme = 'hugo-theme-terminal'
+
+[menu]
+  [[menu.main]]
+    identifier = "Homepage"
+    name = "Homepage"
+    title = "Homepage"
+    url = "/homepage"
+    weight = 0
+  [[menu.main]]
+    identifier = "BG3"
+    name = "BG3"
+    title = "BG3"
+    url = "/posts/Baldur's Gate 3"
+    weight = 0
+  [[menu.main]]
+    identifier = "CP2077"
+    name = "CP2077"
+    title = "CP2077"
+    url = "/posts/Cyberpunk_2077"
+    weight = 0
+  [[menu.main]]
+    identifier = "Hades"
+    name = "Hades"
+    title = "Hades"
+    url = "/posts/Hades"
+    weight = 0
+

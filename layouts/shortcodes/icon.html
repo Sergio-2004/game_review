@@ -1,0 +1,11 @@
+<div>
+  <div style="width: 50px; float: left;">
+    <img src="{{.Site.BaseURL}}/images/{{ .Get "nombre" }}"
+       alt={{ .Get "alt" }}
+       width="50px"/>
+  </div>
+  <div style="float: left;">
+    {{.Get "texto"}}
+  </div>
+  <br><br>
+</div>
