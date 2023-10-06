@@ -2,7 +2,7 @@
 title = 'Plot'
 date = 2023-10-04T17:55:35+02:00
 draft = false
-color = "blue"
+color="bg_color"
 +++
 
 *Baldur's Gate 3* transports players into a captivating fantasy realm where chaos reigns and dark forces threaten existence. Developed by **Larian Studios**, this role-playing video game is a continuation of the iconic *Baldur's Gate* series. The plot revolves around the city of Baldur's Gate, where a sinister, mind-altering parasite known as the Illithid tadpole infects the player character and several others.

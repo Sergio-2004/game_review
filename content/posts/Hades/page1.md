@@ -2,7 +2,7 @@
 title = 'Plot'
 date = 2023-10-04T17:55:50+02:00
 draft = false
-color = "red"
+color = "hades_color"
 +++
 
 *Hades*, an action-packed rogue-like video game developed by **Supergiant Games**, plunges players into the depths of Greek mythology. The story centers on Zagreus, the son of Hades, as he embarks on a relentless quest to escape the Underworld and reach the surface to reunite with his mother, Persephone.

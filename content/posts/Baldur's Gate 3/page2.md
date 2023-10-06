@@ -2,7 +2,7 @@
 title = 'Gameplay'
 date = 2023-10-04T17:55:37+02:00
 draft = false
-color = "blue"
+color="bg_color"
 +++
 
 *Baldur's Gate 3*, developed by **Larian Studios**, delivers a rich and enthralling gameplay experience steeped in the classic Dungeons & Dragons universe. The game is a blend of captivating storytelling, strategic turn-based combat, and intricate decision-making.

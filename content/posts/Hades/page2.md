@@ -2,7 +2,7 @@
 title = 'Gameplay'
 date = 2023-10-04T17:55:53+02:00
 draft = false
-color = "red"
+color = "hades_color"
 +++
 *Hades*, developed by **Supergiant Games**, is a tour de force in the realm of action rogue-like gameplay. The player takes on the role of Zagreus, the son of Hades, navigating through the intricacies of the Underworld in a bid to escape to the surface. The gameplay is fast-paced and highly engaging, featuring a mix of isometric combat and dungeon-crawling elements.
 

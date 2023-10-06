@@ -2,7 +2,7 @@
 title = 'Gameplay'
 date = 2023-10-04T17:56:14+02:00
 draft = false
-color = "green"
+color="cp_color"
 +++
 
 *Cyberpunk 2077*, developed by **CD Projekt Red**, presents a vast and immersive gameplay experience set in a sprawling open-world dystopia. The gameplay centers on V, a mercenary navigating the neon-lit city of Night City, and offers a diverse range of gameplay elements.

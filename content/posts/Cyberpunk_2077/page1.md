@@ -2,7 +2,7 @@
 title = 'Plot'
 date = 2023-10-04T17:56:09+02:00
 draft = false
-color = "green"
+color="cp_color"
 +++
 
 *Cyberpunk 2077* is an ambitious open-world action role-playing video game set in a dystopian future. The game is developed by **CD Projekt Red** and set in the bustling and technologically advanced Night City, a metropolis obsessed with power, glamour, and cybernetic enhancements. The narrative centers on V, a mercenary striving for fame and fortune, embarking on a mission to secure a prototype immortality chip.
