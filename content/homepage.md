@@ -20,7 +20,7 @@ ___
 
     A frenetic RogueLight game with isometric view developed by **Supergiant Games**, wich is inspired in ancient Greek mitology.
 
-- ## [{{< icon nombre="bg_icon.png" alt="cp1" texto="Baldur's gate 3" >}}](/posts/baldurs-gate-3)
+- ## [{{< icon nombre="bg_icon.png" alt="cp1" texto="Baldur's gate 3" >}}](/game_review/posts/baldurs-gate-3)
 
     A RPG with mechanics of TTRPGs, in this case the 5º edition of Dungeons and Dragons, developed by **Larian Studios** and takes our group of adventurers throw the Sword Coast.
 
