@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tarea 2</title>
+    <title>Game Review</title>
     <link>https://sergio-2004.github.io/game_review/</link>
-    <description>Recent content on Tarea 2</description>
+    <description>Recent content on Game Review</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 04 Oct 2023 17:56:14 +0200</lastBuildDate><atom:link href="https://sergio-2004.github.io/game_review/index.xml" rel="self" type="application/rss+xml" />

@@ -1,6 +1,6 @@
 baseURL = 'https://sergio-2004.github.io/game_review'
 languageCode = 'en-us'
-title = 'Tarea 2'
+title = 'Game Review'
 theme = 'hugo-theme-terminal'
 
 [menu]
