@@ -9,7 +9,6 @@ author = "Sergio Parrinello"
 # Site Summary
 
 In this site you will be encountering three different sections, each one of them will have a page with a brief intro into their *Plot* and another one about their *Gameplay*.
-
 ___
 ___
 
